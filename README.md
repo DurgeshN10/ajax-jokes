@@ -1,4 +1,4 @@
-## live demo : 
+## live demo : https://durgeshn10.github.io/ajax-jokes/
 
 # chucknorris.io is a free JSON API for hand curated Chuck Norris facts.
 
