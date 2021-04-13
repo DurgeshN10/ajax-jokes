@@ -8,9 +8,9 @@ Retrieve a random chuck joke in JSON format.
 
 ## Example response:
 
-{
-"icon_url" : "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
-"id" : "umwzezi7siitlteg3jiyiw",
-"url" : "",
-"value" : "Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground"
+{<br/>
+"icon_url" : "https://assets.chucknorris.host/img/avatar/chuck-norris.png",<br/>
+"id" : "umwzezi7siitlteg3jiyiw",<br/>
+"url" : "",<br/>
+"value" : "Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground"<br/>
 }
